@@ -1,4 +1,4 @@
-# Proyecto4-Foro
+# Proyecto3-Foro
 Foro sobre el juego SnakeGame.
 
 Lenguajes utilizados: PHP y CSS.
